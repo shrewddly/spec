@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-29T15:00:43.543Z",
+  "ownerPin": "2580",
+  "tgUsername": "aeiupov",
+  "equipment": [
+    {
+      "id": "mini",
+      "rate": 2500,
+      "minHours": 4,
+      "status": "free",
+      "zones": [
+        {
+          "id": "z1",
+          "name": "Город",
+          "price": 3000
+        },
+        {
+          "id": "z2",
+          "name": "До 30 км",
+          "price": 5000
+        },
+        {
+          "id": "z3",
+          "name": "До 60 км",
+          "price": 8000
+        }
+      ]
+    },
+    {
+      "id": "manipulator",
+      "rate": 3000,
+      "minHours": 4,
+      "status": "free",
+      "zones": [
+        {
+          "id": "z1",
+          "name": "Город",
+          "price": 3000
+        },
+        {
+          "id": "z2",
+          "name": "До 30 км",
+          "price": 5000
+        },
+        {
+          "id": "z3",
+          "name": "До 60 км",
+          "price": 8000
+        }
+      ]
+    },
+    {
+      "id": "crane25",
+      "rate": 3500,
+      "minHours": 4,
+      "status": "free",
+      "zones": [
+        {
+          "id": "z1",
+          "name": "Город",
+          "price": 3000
+        },
+        {
+          "id": "z2",
+          "name": "До 30 км",
+          "price": 5000
+        },
+        {
+          "id": "z3",
+          "name": "До 60 км",
+          "price": 8000
+        }
+      ]
+    }
+  ]
+}
